@@ -1,2 +1,4 @@
 *.pdf
 *.sublime-*
+.idea
+*.xhb
